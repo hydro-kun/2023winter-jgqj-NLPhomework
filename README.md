@@ -25,7 +25,7 @@ OTHER(OTHER)        precision,  recall,     F1
 
 ## 复现代码说明
 
-从[UMGF-github](https://github.com/TransformersWsz/UMGF)和[UMT-github](https://github.com/jefferyYu/UMT)下载代码，可能会遇到的问题可以参考[复现过程和遇到的问题.md](复现过程和遇到的问题.md)
+从[UMGF-github](https://github.com/TransformersWsz/UMGF)和[UMT-github](https://github.com/jefferyYu/UMT)下载代码，可能会遇到的问题可以参考[复现过程和遇到的问题](https://www.wolai.com/vitbcxTewBQ6sdiT3qiPp3)
 
 将UMGF和UMT文件夹按照目录结构放到下载的文件夹中，并替换对应的文件
 
