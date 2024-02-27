@@ -1,0 +1,6 @@
+
+overall	acc, 	pre, 	recall, 	f1
+PER	 	pre, 	recall, f1
+LOC	 	pre, 	recall, f1
+ORG	 	pre, 	recall, f1
+OTHER 	pre, 	recall, f1
